@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "kishan",
+    "password": "password",
+    "database": "o2o_master_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "kishan",
+    "password": "password",
+    "database": "o2o_master_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "kishan",
+    "password": "password",
+    "database": "o2o_master_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
