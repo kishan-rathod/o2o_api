@@ -38,3 +38,4 @@ sequelize db:migrate:undo --models-path models/company --migrations-path migrati
 sequelize db:migrate:status --models-path models/master --migrations-path migrations/master --url postgresql://kishan-rathod:password@localhost:5432/o2_master_development
 
 sequelize db:migrate --models-path models/master --migrations-path migrations/master --url postgresql://kishan-rathod:password@localhost:5432/o2_master_development# o2o_api
+# o2o_api
